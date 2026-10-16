@@ -1,0 +1,6 @@
+{
+  "name": "Painel Gráfico de Desempenho Escolar",
+  "description": "Visualização gráfica analítica e diversificada do histórico acadêmico e assiduidade escolar em tema escuro.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
