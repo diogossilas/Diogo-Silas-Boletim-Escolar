@@ -1,0 +1,5 @@
+{
+  "summary": "Guia analítico e operacional completo para futuras manutenções, refatorações e extensões do Painel Gráfico de Desempenho Escolar. Abrange taxonomia arquitetural, procedimentos passo a passo para atualização de dados escolares, adição de novos módulos gráficos SVG, governança de tipagem estrita, otimização de renderização e matriz de diagnóstico de falhas.",
+  "updatedAt": "2026-10-16T21:31:37.683584080Z",
+  "userFacing": true
+}
